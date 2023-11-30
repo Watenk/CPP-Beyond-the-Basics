@@ -128,8 +128,19 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="src\Main.cpp" />
+    <ClCompile Include="src\NPC\Characters\Elf.cpp" />
+    <ClCompile Include="src\NPC\Characters\Orc.cpp" />
+    <ClCompile Include="src\NPC\Decorators\Farmer.cpp" />
+    <ClCompile Include="src\NPC\Decorators\Shaman.cpp" />
+    <ClCompile Include="src\NPC\Decorators\Soldier.cpp" />
+    <ClCompile Include="src\NPC\NPCDecorator.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\NPC\Characters\Elf.h" />
+    <ClInclude Include="src\NPC\Characters\Orc.h" />
+    <ClInclude Include="src\NPC\Decorators\Farmer.h" />
+    <ClInclude Include="src\NPC\Decorators\Shaman.h" />
+    <ClInclude Include="src\NPC\Decorators\Soldier.h" />
     <ClInclude Include="src\NPC\NPCDecorator.h" />
     <ClInclude Include="src\NPC\INPC.h" />
   </ItemGroup>

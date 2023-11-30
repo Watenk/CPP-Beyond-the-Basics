@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP-Beyond-Bankrenkening", "CPP-Beyond-OOL\CPP-Beyond-OOL.vcxproj", "{5AF31EA0-7DDC-4F93-A0C9-35E437F91E41}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Assignment-2", "Assignment-2\Assignment-2.vcxproj", "{37FDCB4C-73A6-473A-BFC3-3494C99EF8DB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Assignment-1", "Assignment-1\Assignment-1.vcxproj", "{5AF31EA0-7DDC-4F93-A0C9-35E437F91E41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,14 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37FDCB4C-73A6-473A-BFC3-3494C99EF8DB}.Debug|x64.ActiveCfg = Debug|x64
+		{37FDCB4C-73A6-473A-BFC3-3494C99EF8DB}.Debug|x64.Build.0 = Debug|x64
+		{37FDCB4C-73A6-473A-BFC3-3494C99EF8DB}.Debug|x86.ActiveCfg = Debug|Win32
+		{37FDCB4C-73A6-473A-BFC3-3494C99EF8DB}.Debug|x86.Build.0 = Debug|Win32
+		{37FDCB4C-73A6-473A-BFC3-3494C99EF8DB}.Release|x64.ActiveCfg = Release|x64
+		{37FDCB4C-73A6-473A-BFC3-3494C99EF8DB}.Release|x64.Build.0 = Release|x64
+		{37FDCB4C-73A6-473A-BFC3-3494C99EF8DB}.Release|x86.ActiveCfg = Release|Win32
+		{37FDCB4C-73A6-473A-BFC3-3494C99EF8DB}.Release|x86.Build.0 = Release|Win32
 		{5AF31EA0-7DDC-4F93-A0C9-35E437F91E41}.Debug|x64.ActiveCfg = Debug|x64
 		{5AF31EA0-7DDC-4F93-A0C9-35E437F91E41}.Debug|x64.Build.0 = Debug|x64
 		{5AF31EA0-7DDC-4F93-A0C9-35E437F91E41}.Debug|x86.ActiveCfg = Debug|Win32

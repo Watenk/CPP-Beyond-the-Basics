@@ -12,4 +12,5 @@ int main()
 	bankrekening += computerTransaction;
 	bankrekening += supermarketTransaction;
 	std::cout << bankrekening << std::endl;
+	std::cin.get();
 }
